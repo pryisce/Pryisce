@@ -1,6 +1,6 @@
 # Pryisce downloads
 
-Get the Pryisce app from [Releases](https://github.com/pryisce/pryisce-downloads/releases/tag/pryisce-1.0.0)
+Get the Pryisce app from [Releases](https://github.com/pryisce/pryisce-downloads/releases/latest)
 and run `Pryisce.exe`. Every Pryisce app, like Pryisce BedWars and Pryisce PC Utility, is installed and updated from
 inside it.
 
